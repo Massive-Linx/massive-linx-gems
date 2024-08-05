@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder QUICGemPOC/Assets": {
+                    "watch": "@GEMROOT:QUICGemPOC@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder QUICGemPOC/Registry": {
+                    "watch": "@GEMROOT:QUICGemPOC@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
